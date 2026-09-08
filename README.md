@@ -29,14 +29,22 @@
  
 ---
  
+## 🔥 Currently Working On
+ 
+- 🚀 Building my cybersecurity startup
+- 🧪 Mastering advanced penetration testing techniques
+- 📖 Contributing to open-source security projects
+- 🤖 Exploring AI applications in cybersecurity
+---
+ 
 ## 🛠️ Tech Stack & Security Arsenal
  
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Programming Languages (Skill Level)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Intermediate-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 ### Web & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -77,10 +85,10 @@
 - **Security Automation Scripts** - Python scripts for vulnerability scanning
 - **Network Analysis Tools** - Packet analysis and network monitoring projects
 ### 💻 Web Development
-- **Django Projects** - Full-stack applications with security best practices
-- **Responsive Web Apps** - HTML/CSS/JavaScript frontend development
+- **SecureWebApp** - Django + React full-stack with security best practices
+- **Portfolio Website** - Responsive design with Tailwind CSS
 - **Open Source Contributions** - Security-focused contributions to community projects
-*Explore more in my repositories below* ⬇️
+*Explore more in my repositories* ⬇️
  
 ---
  
@@ -91,13 +99,19 @@
 - 📖 Continuous Learner - Always exploring new security domains
 ---
  
+## 🏆 Milestones & Achievements
+ 
+| Achievement | Status |
+|---|---|
+| 🎯 HackTheBox Pro Member | 🔄 In Progress |
+| 🏅 First 10 Boxes Completed | 🔄 In Progress |
+| 🔐 Cybersecurity Certification | 🔄 In Progress |
+| 🚀 Startup MVP Launch | 🔄 In Progress |
+ 
+---
+ 
 ## 🚀 Work In Progress: Startup Project
- 
-<div align="center">
-![WIP](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge)
-![Vision](https://img.shields.io/badge/Vision-Building%20Something%20Big-ff6b00?style=for-the-badge)
- 
-</div>
+
 Currently working on launching my own company focused on **cybersecurity solutions and secure software development**. 
  
 ### 🎯 Mission
@@ -105,6 +119,29 @@ Creating innovative security tools and services that help businesses protect the
  
 *More details coming soon...* 🔐
  
+---
+ 
+## 🤝 Open To
+
+ 
+
+<div align="center">
+
+🤝 **Collaborations** • 💼 **Freelance** • 🚀 **Partnerships**
+
+</div>
+<div align="center">
+ 
+   Interested In
+🔒 **Security Consulting** | 🛡️ **Cybersecurity Projects** | 💼 **Startup Partnerships**
+
+</div>
+
+ 
+<div align="center">
+📧 ** ----- **
+</div>
+
 ---
  
 ## 💡 Philosophy
@@ -119,8 +156,6 @@ Stay curious, stay ethical, and always secure the matrix. 🛡️"
 <div align="center">
 ### ⭐ If you find my work interesting, feel free to star my repositories!
  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=matteomalatesta.matteomalatesta)
- 
-*Last updated: 2024* 📅
+*Last updated: 2026* 📅
  
 </div>
