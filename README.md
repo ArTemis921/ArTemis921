@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Matteo</div>
  
 <div align="center">
-### 🛡️ Cybersecurity & AI Student | 💻 Full-Stack Developer | 🔍 Security Researcher
+    🛡️ Cybersecurity & AI Student | 💻 Junior Full-Stack Developer | 🔍 Junior Security Researcher
  
 [![Status](https://img.shields.io/badge/Status-Securing%20the%20Matrix-00ff66?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
 [![Location](https://img.shields.io/badge/Location-Italy-blue?style=flat-square&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Italy/)
