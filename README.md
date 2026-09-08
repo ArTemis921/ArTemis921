@@ -41,5 +41,4 @@
 
 ### 📫 Reach Me At
 * 📧 **Email:** matteo.malatesta03@gmail.com
-* 💼 **LinkedIn:** [Il tuo profilo LinkedIn](INSERISCI_LINK_QUI)
 * 🔓 **Hack The Box:** [Il tuo profilo HTB](INSERISCI_LINK_QUI)
