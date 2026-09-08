@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Matteo 👋</h1>
+<h3 align="center">🛡️ Cyber Security & AI Student | 💻 Passion Coder | 🛠️ IT Technician</h3>
 
-<!--
-**ArTemis921/ArTemis921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌍 Based in Italy | Passionate about secure code, systems engineering, and artificial intelligence<br>
+  🔓 Actively training on <b>Hack The Box</b> & building side projects for fun
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+
+* **Programming & Markup:** `Python`, `JavaScript`, `HTML5`, `CSS3`
+* **Frameworks & Styling:** `Tailwind CSS`, `Django` *(learning/using)*
+* **Security & Systems:** `Linux`, `Network Troubleshooting`, `Vulnerability Assessment concepts`, `Hack The Box`
+* **Workflow & Version Control:** `Git`, `GitHub`, `VS Code`
+
+---
+
+### 🚀 About Me
+
+* 🔧 Working professionally as an **IT Technician at Cidiesse SRL**, managing hardware, networks, and technical problem-solving.
+* ⚡ Building web applications and side projects in my spare time, driven purely by passion and curiosity.
+* 🎓 Studying **Cyber Security and Artificial Intelligence** at university to merge robust system architecture with smart, secure software.
+* 🛡️ Sharpening my offensive/defensive security skills daily through hands-on labs and machines on **Hack The Box**.
+* 🌱 Always eager to explore emerging tech, open-source projects, and new security challenges.
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+### 📫 Reach Me At
+* 📧 **Email:** matteo.malatesta03@gmail.com
+* 💼 **LinkedIn:** [Il tuo profilo LinkedIn](INSERISCI_LINK_QUI)
+* 🔓 **Hack The Box:** [Il tuo profilo HTB](INSERISCI_LINK_QUI)
