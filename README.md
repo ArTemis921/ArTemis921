@@ -91,25 +91,20 @@
 - 📖 Continuous Learner - Always exploring new security domains
 ---
  
-## 📊 GitHub Stats
+## 🚀 Work In Progress: Startup Project
  
 <div align="center">
-![GitHub Stats](https://img.shields.io/badge/GitHub-Ready%20to%20Collaborate-blue?style=flat-square&logo=github)
- 
-*Building secure code, one commit at a time* 🚀
- 
-</div>
----
- 
-## 🌐 Connect With Me
- 
-<div align="center">
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.malatesta03@gmail.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/INSERISCI_ID_QUI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matteo-malatesta-03/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matteomalatesta)
+![WIP](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow?style=for-the-badge)
+![Vision](https://img.shields.io/badge/Vision-Building%20Something%20Big-ff6b00?style=for-the-badge)
  
 </div>
+Currently working on launching my own company focused on **cybersecurity solutions and secure software development**. 
+ 
+### 🎯 Mission
+Creating innovative security tools and services that help businesses protect their digital infrastructure with modern, ethical, and effective solutions.
+ 
+*More details coming soon...* 🔐
+ 
 ---
  
 ## 💡 Philosophy
